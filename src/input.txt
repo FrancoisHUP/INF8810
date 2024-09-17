@@ -1,0 +1,6 @@
+We predict that what goes around with databases will continue to come around in upcoming decades.
+Another wave of developers will claim that SQL and the RM are insufficient for emerging application domains.
+People will then propose new query languages and data models to overcome these problems.
+There is tremendous value in exploring new ideas and concepts for DBMSs, it is where we get new features for SQL.
+The database research community and marketplace are more robust because of it.
+However, we do not expect these new data models to supplant the RM.
